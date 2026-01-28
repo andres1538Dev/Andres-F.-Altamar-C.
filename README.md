@@ -1,2 +1,2 @@
-# Andres-F.-Altamar-C.
+# Andres-F.-Altamar-C
 Mi primer repo
